@@ -1,0 +1,41 @@
+Ethical Hacking Analyst Interview Questions:
+What is ethical hacking and how does it differ from malicious hacking?
+
+Can you explain the different types of hackers and their roles?
+
+What is footprinting and what techniques are used for it?
+
+Describe a Denial of Service (DoS) attack and how it can be mitigated.
+
+What is SQL injection and how can it be prevented?
+
+Explain the concept of social engineering and provide examples.
+
+What are the common tools used in ethical hacking and their purposes?
+
+Describe the process of a penetration test.
+
+What is network sniffing and how can it be detected and prevented?
+
+Explain ARP spoofing and how to protect against it.
+
+Practical Questions:
+Perform a network scan using Nmap to identify active hosts and open ports on a target subnet (e.g., 192.168.1.0/24).
+
+Conduct a web application penetration test using Burp Suite or OWASP Zap to identify vulnerabilities such as SQL injection and XSS.
+
+Exploit an SQL injection vulnerability in a web application's login form to retrieve user credentials from the database.
+
+Crack the WPA2 password of a wireless network using tools like Aircrack-ng or Hashcat.
+
+Perform a phishing attack to trick users into revealing their credentials by creating a convincing phishing email and website.
+
+Use the Metasploit Framework to exploit a remote Windows system, gain a meterpreter session, and extract sensitive data.
+
+Harden an Apache web server by configuring security headers, enabling HTTPS with a valid certificate, and disabling unnecessary services.
+
+Conduct a social engineering attack to gather information from employees within an organization.
+
+Perform a vulnerability assessment on a network to identify potential security risks and suggest mitigation strategies.
+
+Implement a basic intrusion detection system (IDS) using tools like Snort to monitor network traffic for suspicious activities.
