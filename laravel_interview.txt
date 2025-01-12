@@ -1,0 +1,46 @@
+ure! Here are some common interview questions and practical questions for a PHP Laravel developer:
+
+Interview Questions:
+What is Laravel?
+
+What are the advantages of using Laravel?
+
+Explain the MVC architecture in Laravel.
+
+What is Eloquent ORM?
+
+How do you define routes in Laravel?
+
+Explain the concept of middleware in Laravel.
+
+What are Blade templates?
+
+How do you handle database migrations in Laravel?
+
+What is Composer and how is it used in Laravel?
+
+What is HTTP middleware and how is it used in Laravel?
+
+Practical Questions:
+Write a simple Laravel route that returns a view.
+
+Create a Laravel model and define a relationship between two models.
+
+Write a Laravel controller method to handle a form submission.
+
+Implement a middleware to check if a user is authenticated.
+
+Create a Blade template that extends a base layout.
+
+Write a migration to create a new table in the database.
+
+Use Eloquent ORM to perform CRUD operations on a database table.
+
+Implement a basic authentication system using Laravel's built-in features.
+
+Create a Laravel package that can be reused in other projects.
+
+Write a test case for a Laravel application using PHPUnit.
+
+Would you like more details on any of these questions or need help with something specific?
+
